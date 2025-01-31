@@ -1,5 +1,7 @@
 # Metin2 Farm Bot - Auto Farming Tool
 
+By Nicola Darius - https://github.com/nicoladarius/Metin2-Automatic-Farming-Bot
+
 This **Metin2 Farm Bot** is an automated tool designed to help you efficiently farm in Metin2 without manual intervention. Built using Python and a variety of libraries such as `pyautogui`, `keyboard`, `pytesseract`, and `imagesearch`, this bot automates several routine in-game tasks like respawning, finding Metin stones, and performing key actions like breaking the stones and collecting the items.
 
 With an easy-to-use GUI, you can start and stop the bot with just a click. Customize your farming session by choosing different Metin stone types, and let the bot handle the repetitive tasks while you focus on other aspects of the game.
