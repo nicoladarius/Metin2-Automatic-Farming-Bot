@@ -1,0 +1,14 @@
+keyboard
+pyautogui
+python_imagesearch
+tk
+threading
+
+
+
+
+
+
+
+
+
