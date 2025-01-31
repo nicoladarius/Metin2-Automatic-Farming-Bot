@@ -6,7 +6,7 @@ With an easy-to-use GUI, you can start and stop the bot with just a click. Custo
 
 Whether you’re a casual player looking to farm efficiently or just exploring automation in gaming, this bot can help streamline your Metin2 experience.
 
-##Disclaimer
+## Disclaimer
 
 This bot is intended for personal use and educational purposes. Use it at your own risk, as it may violate the terms of service of Metin2 or other games. Always ensure you are in compliance with the game's rules and regulations.
 
